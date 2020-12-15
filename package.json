@@ -1,6 +1,6 @@
 {
   "name": "@nikita-ks/lib-with-webpack",
-  "version": "1.0.112",
+  "version": "1.0.12",
   "description": "test library",
   "main": "@nikita-ks/lib-with-webpack.js",
   "scripts": {
