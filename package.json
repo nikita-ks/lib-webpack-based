@@ -1,8 +1,9 @@
 {
   "name": "@nikita-ks/lib-with-webpack",
-  "version": "1.0.19",
+  "version": "1.0.2",
   "description": "test library",
-  "main": "lib-with-webpack.js",
+  "main": "./dist/@nikita-ks/lib-with-webpack.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
